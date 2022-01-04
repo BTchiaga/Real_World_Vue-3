@@ -8,7 +8,6 @@
           location: "Crypto Town",
           date: "January 17, 2022",
           time: "11:11",
-          petsAllowed: true,
           organizer: "kat laydee",
         },
         {
@@ -19,7 +18,6 @@
           location: "cook Town",
           date: "december 18, 2022",
           time: "11:11",
-          petsAllowed: true,
           organizer: "Chef Brandson",
         },
         {
@@ -30,7 +28,6 @@
           location: "dance Town",
           date: "march 17, 2022",
           time: "08:00",
-          petsAllowed: true,
           organizer: "Zabreezy",
         },
       ]
