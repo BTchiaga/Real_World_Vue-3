@@ -16,7 +16,7 @@
           category: "cooking welfare",
           title: "chef talent day",
           description: "Find a chef to cook with.",
-          location: 2cook Town",
+          location: "cook Town",
           date: "december 18, 2022",
           time: "11:11",
           petsAllowed: true,
