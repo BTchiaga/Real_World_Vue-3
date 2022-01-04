@@ -8,7 +8,7 @@
           "location": "Crypto Town",
           "date": "January 17, 2022",
          "time": "11:11",
-         "organizer": "kat laydee",
+         "organizer": "kat laydee"
         },
         {
           "id": 15464415,
@@ -18,7 +18,7 @@
           "location": "cook Town",
          "date": "december 18, 2022",
           "time": "11:11",
-          "organizer": "Chef Brandson",
+          "organizer": "Chef Brandson"
         },
         {
           "id": 20121415,
@@ -28,7 +28,7 @@
           "location": "dance Town",
           "date": "march 17, 2022",
           "time": "08:00",
-          "organizer": "Zabreezy",
-        },
+          "organizer": "Zabreezy"
+        }
       ]
     }
